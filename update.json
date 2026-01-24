@@ -1,6 +1,6 @@
 {
   "game_version": "2",
-  "game_url": "https://your-domain.com/app-game-release.apk",
+  "game_url": "//",
   "full_data_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
   "lite_data_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
 }
